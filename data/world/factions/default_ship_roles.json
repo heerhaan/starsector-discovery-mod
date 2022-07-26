@@ -1,0 +1,45 @@
+{
+	"combatSmallForSmallFleet":{},
+	"combatSmall":{},
+	
+	"combatMedium":{
+		"bluelaguneship" : 3
+	},
+            	
+	"combatLarge":{},
+	"combatCapital":{},
+	
+	"combatFreighterSmall":{},
+	"combatFreighterLarge":{},
+	
+	"civilianRandom":{},
+
+	"carrierSmall":{},
+	"carrierMedium":{},
+	"carrierLarge":{},
+
+	"phaseSmall":{},
+	"phaseMedium":{},
+	"phaseLarge":{},
+	"phaseCapital":{},
+
+	"freighterSmall":{},
+	"freighterMedium":{},
+	"freighterLarge":{},
+	
+	"tankerSmall":{},
+	"tankerMedium":{},
+	"tankerLarge":{},
+	
+	"personnelSmall":{},
+	"personnelMedium":{},
+	"personnelLarge":{},
+	
+	"linerSmall":{},
+	"linerMedium":{},
+	"linerLarge":{},
+	
+	"tug":{},
+	"crig":{},
+	"utility":{}
+}
